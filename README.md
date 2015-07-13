@@ -8,6 +8,8 @@ http://alonelysquare.com/
 
 不知道怎做的.. <br />
 http://krystalrae.com/
+
+http://www.putzengel.at/
 <br /><br />
 #### 帥可以很簡單
 
@@ -28,3 +30,7 @@ http://www.lockchou.idv.tw/blog/2014/06/why_cant_we_find_f2e/
 http://cat-son.blogspot.tw/2013/05/js-jqueryproject1-basic-part.html#sthash.IYA4P86n.dpbs
 
 <br /><br />
+#### plugins
+
+TinyMap - 好像是台灣人寫的？<br />
+http://app.essoduke.org/tinyMap/
