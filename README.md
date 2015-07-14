@@ -29,6 +29,8 @@ http://www.lockchou.idv.tw/blog/2014/06/why_cant_we_find_f2e/
 『返樸歸真』讓 jQuery 慢慢淡出你的網站吧<br />
 http://cat-son.blogspot.tw/2013/05/js-jqueryproject1-basic-part.html#sthash.IYA4P86n.dpbs
 
+13 tips for making responsive web design <br />
+http://responsivenews.co.uk/post/123104512468/13-tips-for-making-responsive-web-design
 <br /><br />
 #### plugins
 
